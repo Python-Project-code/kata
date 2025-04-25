@@ -17,4 +17,5 @@
 # 2. A String of Sorts
 
 [Link](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a)
+
 [Code](sort_string.py)
